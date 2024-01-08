@@ -1,0 +1,70 @@
+body{
+    background-color:grey;
+}
+.help{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+.p{
+    text-align: center;
+}
+.pp{
+    color: red;
+    text-align: center;
+}
+.ppp{
+color: black;
+text-align: center;
+}
+.pr{
+    width: 70px;
+    height: 30px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.pri{
+    width: 75px;
+    height: 35px;
+    background-color: green;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.priv{
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    border: none;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.d{
+    width: 220px;
+    height: 250px;
+    border: 3px solid skyblue;
+    border-image: linear-gradient(to right top, blue, skyblue, blue);
+    border-image-slice: 1;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: white;
+
+}
+   
+    
